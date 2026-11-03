@@ -1,4 +1,3 @@
-# Visual-Data-Analysis-with-Python
 # Visual Data Analysis with Python
 
 **Project Period:** June 2025 – August 2025  
