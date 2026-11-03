@@ -1,0 +1,9 @@
+{
+  "rows": 1200,
+  "numeric_features": 12,
+  "injected_anomaly_rate_pct": 12.0,
+  "isolation_forest_detected_outlier_rate_pct": 12.0,
+  "max_abs_pairwise_correlation": 0.6235629132325331,
+  "pca_two_component_variance_pct": 52.51493459640373,
+  "segment_silhouette_on_standardized_features": 0.18281923028985464
+}
